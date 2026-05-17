@@ -1,14 +1,13 @@
-
-Markdown
 # ⚡️ MTPROTO Telegram Proxy Manager
 
 <p align="center">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="250">
-  <br>
-  <a href="https://play.google.com/store/apps/details?id=com.boardgames.bd.mtproto">
-    <b>Скачать в Google Play / Download on Play Store</b>
-  </a>
 </p>
+
+| Версия / Version | Ссылка на скачивание / Download Link |
+| :--- | :--- |
+| **MTPROTO Proxy Manager (Full)** | [Скачать в Google Play](https://play.google.com/store/apps/details?id=com.boardgames.bd.mtproto) |
+| **MTPROTO Proxy Manager Light** | [Скачать в Google Play](https://play.google.com/store/apps/details?id=com.boardgames.bd.mtprotolight) |
 
 ---
 
@@ -45,7 +44,7 @@ Markdown
 
 ## 🔍 SEO & Keywords (Ключевые слова для поиска)
 
-> `MTProto Proxy`, `Telegram Proxy`, `Proxy Manager Telegram`, `Списки прокси 2026`, `Free VPN Telegram`, `Прокси для Телеграм`, `Boardgames.bd`, `Fast Proxy Server`, `MTProto Servers`, `Telegram Bypass`, `Proxy List Android`.
+> `MTProto Proxy`, `Telegram Proxy`, `Proxy Manager Telegram`, `Списки прокси 2026`, `Free VPN Telegram`, `Прокси для Телеграм`, `Boardgames.bd`, `Fast Proxy Server`, `MTProto Servers`, `Telegram Bypass`, `Proxy List Android`, `MTProto Light`.
 
 ---
 
